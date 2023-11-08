@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import YarnCalculator from '../components/YarnCalculator.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <YarnCalculator />
   </main>
 </template>
